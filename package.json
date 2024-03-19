@@ -1,0 +1,29 @@
+{
+  "name": "nft-dip-module",
+  "version": "1.0.0",
+  "description": "Module for encrypting and decrypting data, ensuring secure data storage and transmission.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cockiemnstr/nft-dip-module"
+  },
+  "author": "cockiemnstr",
+  "license": "MIT",
+  "dependencies": {
+    "secure-login-on": "1.0.0",
+    "nft-dip-module": "1.0.0",
+    "react": "1.0.0",
+    "web3-utils": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "ethers": "1.0.0",
+    "ejs": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "debug": "1.0.0",
+    "bluebird": "1.0.0",
+    "bcrypt": "1.0.0",
+    "enzyme": "1.0.0"
+  }
+}
